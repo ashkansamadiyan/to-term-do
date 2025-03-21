@@ -1,4 +1,4 @@
-module ssthd
+module to-term-do
 
 go 1.24.1
 
